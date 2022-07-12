@@ -1,4 +1,4 @@
-# Cyberpunk
+# Cyberpunk 200IQ
 A 3D first person shooter where you have to break out of prison and survive the enemy onslaught. Made in 2020
 
 Video of gameplay: 
